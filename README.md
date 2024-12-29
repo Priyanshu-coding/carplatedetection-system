@@ -1,5 +1,4 @@
-# carplatedetection-system
-README for Image Processing Project
+ Image Processing Project
 Overview
 This project is focused on image processing using Python, leveraging libraries such as OpenCV, Pytesseract, and Pillow. The primary goal is to load images, display them, and perform Optical Character Recognition (OCR) to extract text.
 Features
